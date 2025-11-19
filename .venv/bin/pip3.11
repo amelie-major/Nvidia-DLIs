@@ -1,4 +1,4 @@
-#!/Users/ameliemajor/Desktop/Internship-Cycle-2024-25/Nvidia-DLIs/.venv/bin/python3.11
+#!/Users/ameliemajor/Desktop/Nvidia-DLIs/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

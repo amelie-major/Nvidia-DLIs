@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /Users/ameliemajor/Desktop/Internship-Cycle-2024-25/Nvidia-DLIs/.venv
+set -gx VIRTUAL_ENV /Users/ameliemajor/Desktop/Nvidia-DLIs/.venv
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH

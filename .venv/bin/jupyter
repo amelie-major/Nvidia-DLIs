@@ -1,4 +1,4 @@
-#!/Users/ameliemajor/Desktop/Internship-Cycle-2024-25/Nvidia-DLIs/.venv/bin/python
+#!/Users/ameliemajor/Desktop/Nvidia-DLIs/.venv/bin/python
 import sys
 from jupyter_core.command import main
 if __name__ == '__main__':
